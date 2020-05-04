@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ParkingApp</string>
+    <string name="check_wheather">Check Wheather</string>
+    <string name="no_internet_error_message">No hay acceso a internet. Por favor pruebe otra vez</string>
+    <string name="get_weather">Get Weather</string>
+    <string name="celcius_format">Temperature: %1$.0f ℃</string>
+    <string name="pressure_format">Pressure: %1$.0f Pa</string>
+    <string name="humidity_format">Humidity: %1$d %%</string>
+    <string name="tipo_vehiculo">Tipo Vehículo</string>
+    <string name="placa_hint">Ingrese Placa</string>
+    <string name="registrar_vehiculo">Registrar Vehiculo</string>
+    <string name="add_car">Add Car</string>
+</resources>
